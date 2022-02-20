@@ -1,0 +1,16 @@
+• What is your favorite package manager and why?
+I don't have any favorite package manager, I usually use the most used according to the programming language and frameworks.
+
+• What architecture did you follow for this project?
+Microservice with repository access.
+
+
+• Do you know and understand UML? What would the class diagram of the domain exposed in the mastermind game be like for you?
+It's a very simple exercise to use UML. I prefer to document using openAPI/swagger because documentation trends to be discontinued.
+
+
+• What tools are you aware of to handle things like code styling and consis- tency, formatting, typing. . . ?
+ESLint, prettier, husky...
+
+• Is there anything you would like to comment about the project, this small exercise, etc?
+Error and exception management are missing, please tell me if needed.
